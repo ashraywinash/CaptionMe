@@ -1,0 +1,11 @@
+name: imageCap
+
+channels: 
+  - default
+
+dependencies:
+  - ipykernel
+  - torch
+  - torchvision
+  - pandas
+  - matplotlib
