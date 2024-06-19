@@ -1,4 +1,4 @@
-##Transformer based image captioning project 
+## Transformer based image captioning project 
 Used flickr 8k and flickr 30k datasets
 
 Referenced :
